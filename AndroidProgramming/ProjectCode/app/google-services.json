@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "703449904257",
+    "firebase_url": "https://projectp-7f17c.firebaseio.com",
+    "project_id": "projectp-7f17c",
+    "storage_bucket": "projectp-7f17c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703449904257:android:ce7389432e2bb7610d8980",
+        "android_client_info": {
+          "package_name": "edu.skku.map.pp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703449904257-l9r5nad3hjgbmuf91v56vv77b4jvlj0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN6tg4DQp-ccDNNeiSbMXxZyQIKRH41tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703449904257-l9r5nad3hjgbmuf91v56vv77b4jvlj0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

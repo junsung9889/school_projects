@@ -1,0 +1,14 @@
+delete from user;
+delete from provider;
+delete from item;
+delete from download;
+insert into user(name,address,account,phone,birthday,date_joined) values ('Jun','Seoul','111-222-333333','010-8342-9889','1996-11-10','2020-05-27');
+insert into provider(name,address,account,phone,birthday) values ('Lee','Seoul','111-111-111111','010-1111-1111','1996-01-01');
+insert into provider(name,address,account,phone,birthday) values ('Kim','Suwon','111-222-222222','010-2222-1111','1995-01-01');
+insert into provider(name,address,account,phone,birthday) values ('Park','Gwangju','111-333-333333','010-3333-1111','1997-01-01');
+insert into provider(name,address,account,phone,birthday) values ('Choi','Ulsan','111-444-444444','010-4444-1111','1997-01-01');
+insert into provider(name,address,account,phone,birthday) values ('Hong','Seoul','111-555-555555','010-5555-1111','1996-01-01');
+insert into item(id,provider_name,name,type,size,machine,os,short_description,last_updated) values ('00000','Lee','viewer_program','program','100','PC','Window','It is a viewer program of video','2020-05-27');
+insert into item(id,provider_name,name,type,size,machine,os,short_description,last_updated) values ('00001','Kim','audio_program','program','100','PC','Window','It is a audio program of video','2020-05-27');
+insert into item(id,provider_name,name,type,size,author,subject,language,short_description,viewer,audio) values ('00002','Park','Parasite','video_clip','200','Bong','Thriller','Korean','It is a video clip of famous movie','viewer_program','audio_program');
+insert into item(id,provider_name,name,type,size,author,subject,short_description,audio) values ('00003','Choi','Symphony.no6','sound_clip','200','Tchaikovsky','Classic','It is a audio clip of famous symphony','audio_program');

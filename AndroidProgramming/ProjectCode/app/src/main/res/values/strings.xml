@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PA1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="personal">PERSONAL</string>
+    <string name="public_">PUBLIC</string>
+    <string name="todo">TODO</string>
+    <string name="contents">Contents...</string>
+    <string name="tags">Tags</string>
+    <string name="make_public">Make Public</string>
+    <string name="create_post">CREATE POST</string>
+</resources>
