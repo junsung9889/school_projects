@@ -17,6 +17,7 @@ Common Page
 3. Product 모든 제품들 사진 정보 표시
 ![KakaoTalk_20210409_233347325](https://user-images.githubusercontent.com/80762743/114196597-7b6acc80-998c-11eb-8df8-9c0f3ebd12b3.jpg)
 ![KakaoTalk_20210409_233347325_01](https://user-images.githubusercontent.com/80762743/114196599-7c036300-998c-11eb-9235-411a2b43e342.jpg)
+![KakaoTalk_20210409_234005481](https://user-images.githubusercontent.com/80762743/114197116-ff24b900-998c-11eb-8c1f-3863e16d07b9.jpg)
 
 
 Administrator Page
