@@ -1,20 +1,4 @@
 //-----------------------------------------------------------
-// 
-// SWE2024: System Programming Lab (2019 Fall)
-//
-// Skeleton code for PA #1
-// September 24, 2019
-//
-// Hyungmin Cho
-// Computing Platforms Lab
-// Sungkyunkwan University
-// 
-// Original Authors:
-// Embedded Software Laboratory
-// Sungkyunkwan University
-//
-// Student Name  : Choi Se Hyun
-// Student ID No.: 2016310487
 //------------------------------------------------------------------
 
 #include <stdio.h>
