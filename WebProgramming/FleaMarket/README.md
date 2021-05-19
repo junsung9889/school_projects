@@ -42,10 +42,7 @@ Buyer Page
 
 3. Buy Product
 
-4. Shopping List - payment
-![KakaoTalk_20210409_233347325_10](https://user-images.githubusercontent.com/80762743/114196290-3050b980-998c-11eb-87a9-daa26e7deb25.jpg)
-
-5. Wish List
+4. Wish List
 ![KakaoTalk_20210409_233347325_11](https://user-images.githubusercontent.com/80762743/114196242-26c75180-998c-11eb-8b13-e767b8244474.jpg)
 
 
